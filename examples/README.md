@@ -28,5 +28,5 @@ go run server.go
 
 4. call the server
 ```shell script
-curl http://localhost:1323/hello
+curl http://localhost:8080/hello
 ```
